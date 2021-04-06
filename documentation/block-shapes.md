@@ -9,6 +9,7 @@ parent: Documentation
 | Blockshape        |
 |-------------------|
 | anvil             |
+| azalea            |
 | beacon            |
 | bed               |
 | block             |
